@@ -1,1 +1,1 @@
-# Type annotation
+# Variable annotation
