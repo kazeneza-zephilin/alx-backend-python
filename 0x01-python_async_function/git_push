@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+git add .
+git commit -m"adding asncy file"
+git push origin master
