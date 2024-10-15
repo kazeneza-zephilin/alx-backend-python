@@ -5,6 +5,7 @@ import asyncio
 import random
 from typing import AsyncGenerator
 
+
 async def async_generator() -> AsyncGenerator[float]:
     """wait 1 sec asynchronous then yield random number"""
     for i in range(10):
